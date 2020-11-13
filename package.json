@@ -1,0 +1,22 @@
+{
+  "name": "node-chat-app",
+  "version": "0.0.1",
+  "description": "It's a simple chat application using nodejs and vanilla js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easa/node-chat-app.git"
+  },
+  "keywords": [
+    "chat-application"
+  ],
+  "author": "easa, grify",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/easa/node-chat-app/issues"
+  },
+  "homepage": "https://github.com/easa/node-chat-app#readme"
+}
